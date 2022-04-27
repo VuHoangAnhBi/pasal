@@ -51,3 +51,12 @@ body {
 .meaning:before {
     content: "Meaning: ";
 }
+
+@media (max-width: 414px) {
+    body {
+    }
+
+    .main {
+        width: 100%;
+    }
+}
