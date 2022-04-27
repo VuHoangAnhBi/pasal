@@ -1,3 +1,0 @@
-FROM node:slim
-COPY package.json .
-COPY package-lock.json .
